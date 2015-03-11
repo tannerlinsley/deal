@@ -1,0 +1,1470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DS",
+				"DSHttpAdapterProvider"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"auth",
+				"authProvider"
+			],
+			[
+				"get",
+				"getLastUpdate"
+			],
+			[
+				"remote",
+				"remoteScripts"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"repli",
+				"replicateDown"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"controller",
+				"controller	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/components/cards/cards.service.js",
+			"settings":
+			{
+				"buffer_size": 5707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/components/game/game.controller.js",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/components/game/partials/game.html",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/components/navigation/navigation.module.js",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Twitter Recess/Recess.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"ss javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"lowercase",
+				"Convert Case: Lower Case"
+			],
+			[
+				"uppercas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"recess",
+				"Recess: Check for problems"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lowercas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upperc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"lintershow",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"node",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"enable lint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublimelinter disabl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimeLintershow all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tannerlinsley/Desktop/deal",
+		"/Users/tannerlinsley/Desktop/deal/www",
+		"/Users/tannerlinsley/Desktop/deal/www/lib",
+		"/Users/tannerlinsley/Desktop/deal/www/lib/angular-ui-router.stateHelper"
+	],
+	"file_history":
+	[
+		"/Users/tannerlinsley/Desktop/moabready/www/components/home/partials/home-wrap.html",
+		"/Users/tannerlinsley/Desktop/deal/www/components/navigation/navigation.controller.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/navigation/navigation.module.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/app.module.js",
+		"/Users/tannerlinsley/Desktop/deal/www/index.html",
+		"/Users/tannerlinsley/Desktop/deal/www/components/cards/cards.constants.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/cards/cards.module.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/utils/utils.service.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/utils/utils.directives.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/cards/cards.service.js",
+		"/Users/tannerlinsley/Desktop/deal/config.xml",
+		"/Users/tannerlinsley/Desktop/deal/www/components/game/partials/game.html",
+		"/Users/tannerlinsley/Desktop/deal/www/components/game/game.controller.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/utils/utils.module.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/utils/utils.filters.js",
+		"/Users/tannerlinsley/Desktop/deal/plugins/com.ionic.keyboard/src/blackberry10/native/public/tokenizer.cpp",
+		"/Users/tannerlinsley/Desktop/deal/plugins/org.apache.cordova.device/tests/tests.js",
+		"/Users/tannerlinsley/Desktop/deal/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/features.h",
+		"/Users/tannerlinsley/Desktop/deal/deal.sublime-project",
+		"/Users/tannerlinsley/Desktop/deal/www/components/game/game.module.js",
+		"/Users/tannerlinsley/Desktop/deal/www/components/navigation/menu.html",
+		"/Users/tannerlinsley/Desktop/deal/gulpfile.js",
+		"/Users/tannerlinsley/Desktop/deal/www/lib/ionic/js/angular/angular-animate.js",
+		"/Users/tannerlinsley/Desktop/deal/www/lib/ionic/js/angular/angular-animate.min.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/auth/partials/login.modal.html",
+		"/Users/tannerlinsley/Desktop/moabready/scss/login.scss",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
+		"/Users/tannerlinsley/Desktop/moabready/localPlugins/phonegap-facebook-plugin/LICENSE",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/help/help.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/home/home.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/templates/std/help.std",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/lib/commands/help.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/templates/json/help-cache.json",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/test/helpers.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/templates/json/help-link.json",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/auth/auth.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/app.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/help/help.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/index.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/onboard.js/onboard.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/onboard.js/onboard.css",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/insight/node_modules/.bin/os-name",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/.bin/opn",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/navigation/navigation.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/navigation/menu.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/utils/utils.directives.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/home/home.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/lib/commands/home.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/db/db.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/remote/remote.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/gulp-util/lib/replaceExtension.js",
+		"/Users/tannerlinsley/Desktop/moabready/scss/ratio.scss",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/navigation/navigation.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/settings/settings.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/settings/settings.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/settings/settings.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/server/moabready/server.js",
+		"/Users/tannerlinsley/Desktop/moabready/server/moabready/app.yaml",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/auth/auth.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/localPlugins/com.brodysoft.sqlitePlugin/AUTHORS.md",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/angular-ui-router/release/angular-ui-router.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/login.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/package.json",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/pouchdb/dist/pouchdb.idb-alt.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/login.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/scss/general.scss",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/partials/login.modal.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/home/partials/home.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/login.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/login.directives.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/login/login.html",
+		"/Users/tannerlinsley/Desktop/untitled.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/utils/utils.filters.js",
+		"/Users/tannerlinsley/Desktop/moabready/config.xml",
+		"/Users/tannerlinsley/Desktop/moabready/scss/ionic.app.scss",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/trails.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/trails.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/trails.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/partials/trails.html",
+		"/Users/tannerlinsley/Desktop/moabready/scss/trails.scss",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/LICENSE",
+		"/Users/tannerlinsley/Desktop/moabready/artwork/logo/logo.sketch",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/module_dir.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/graceful-fs/test/max-open.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#4/remote.home.styl",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#2/remote.home.module.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#3/remote.home.html",
+		"/Users/tannerlinsley/Desktop/moabready/server/moabready/index.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/places/places.service.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/camping/partials/camping.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/entertainment/partials/entertainment.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/entertainment/entertainment.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/entertainment/entertainment.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/entertainment/partials/entertainment.single.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/shops/partials/shops.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/food/partials/food.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/food/food.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/scss/food.scss",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/mout/lang/ctorApply.js",
+		"/Users/tannerlinsley/Desktop/moabready/scss/maps.scss",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/mout/number/MAX_INT.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/gulp-concat/test/main.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#3/remote.home.module.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#4/remote.home.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/animate.css/animate.css",
+		"/Users/tannerlinsley/Desktop/moabready/www/lib/angular/angular.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/node-bourbon/assets/stylesheets/functions/_modular-scale.scss",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/handlebars/node_modules/optimist/readme.markdown",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/insight/node_modules/inquirer/node_modules/cli-color/node_modules/memoizee/node_modules/es6-weak-map/.travis.yml",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/handlebars/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/handlebars/node_modules/uglify-js/test/compress/dead-code.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/utils/utils.service.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#2/remote.home.styl",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#0/remote.home.html",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#1/remote.home.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/camping/partials/camping.single.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/food/partials/food.single.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/shops/partials/shops.single.html",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/math/_unpack-ieee754.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/camping/camping.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/string/#/case-insensitive-compare.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/camping/camping.module.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/memoizee/node_modules/event-emitter/all-off.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/shops/shops.controller.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/partials/trails.single.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/components/trails/directives/map.directive.js",
+		"/Users/tannerlinsley/Desktop/moabready/node_modules/bower/node_modules/.bin/handlebars",
+		"/Users/tannerlinsley/Desktop/moabready/.bowerrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"www/",
+			"app/",
+			"app/styles/",
+			"app/",
+			"",
+			"~/Github/nozzle:/app/",
+			"~/Github/nozzle/app/",
+			"~/Github/nozzle\\/app/",
+			"~/Github/nozzle/app/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"used",
+			"starter",
+			"build",
+			"$ionicLoading",
+			" \"",
+			"wilcards",
+			" wildcard",
+			" wildcards",
+			" rent cards",
+			"money card",
+			"and ",
+			", ",
+			"utils",
+			"home",
+			"utiles",
+			"navigation",
+			"home",
+			"navigation",
+			"moabready",
+			" \"",
+			"Stars",
+			"ts",
+			"M",
+			"$",
+			"money cards, ",
+			"money card, ",
+			" rent cards",
+			", ",
+			" wildcard",
+			", ",
+			" and",
+			"Set, ",
+			"load",
+			"scrollBox",
+			"$('html').",
+			"console.lo",
+			"!');\n",
+			"console.lo",
+			"places",
+			"moabready.login",
+			"moabread.login",
+			"login",
+			"pouchdb",
+			"Login",
+			"remotePaths",
+			",\n",
+			"login",
+			"status",
+			"$scope.modal",
+			"components/login/",
+			"h5",
+			"angular",
+			"900",
+			"1200",
+			"1500",
+			"h5",
+			"login",
+			"navigation",
+			"data-team-popup=\"\"",
+			"-api",
+			"api-",
+			"posts",
+			"post",
+			"$ ",
+			"nzAnimate",
+			"ngFx",
+			"by id",
+			"id",
+			"flipInX",
+			"bounceInUp",
+			"zoomIn",
+			"animated zoomIn",
+			"card animated ",
+			"bounceInUp",
+			"posts",
+			" = res.data;",
+			"fadeInUp",
+			"toggleShow",
+			"h5",
+			"h4",
+			"h5",
+			"h6",
+			"h4",
+			"<h1 class=\"text-center\">\n                <i class=\"ion-loading-c\" style=\"font-size:2em;\"></i>\n            </h1>",
+			"<i class=\"ion-loading-c",
+			"loader",
+			"dynamicHeight",
+			"ng-href=\"tel",
+			"browse",
+			"browse=",
+			"browse",
+			"browse=",
+			"post",
+			"div",
+			"help",
+			"<div class=\"list card\">\n                <h4 class=\"text-center\">Reviews</h4>\n            </div>",
+			"food",
+			" no-repeat;\" class=\"place-photo\"",
+			"ght:600})\" style=\"background:",
+			")}}') no-repeat; background-size: cover;\"",
+			"seq",
+			"entertainment",
+			"food",
+			"Food",
+			"food",
+			"Campground",
+			"food",
+			"entertainment",
+			"ion-pizza",
+			"service[type]",
+			"food",
+			"shops",
+			"Shops",
+			"shops",
+			"Shop",
+			"shops",
+			"food",
+			"Food",
+			"food",
+			"$ionicSlideBoxDelegate",
+			"$interval",
+			"$rootScope",
+			"$timeout",
+			"$rootScope",
+			"Places",
+			"$stateParams",
+			"$scope",
+			"$interval"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"tel",
+			"",
+			";\" class=\"place-photo\"",
+			"ght:600})\" style=\"background-image:",
+			")}}') no-repeat;\" class=\"place-photo\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/components/cards/cards.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1640,
+								1640
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/components/game/game.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/components/game/partials/game.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/components/navigation/navigation.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "deal.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"navgation",
+				"www/components/navigation/navigation.module.js"
+			],
+			[
+				"navigation",
+				"www/components/navigation/navigation.controller.js"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"app.",
+				"www/components/app.module.js"
+			],
+			[
+				"app.m",
+				"www/components/app.module.js"
+			],
+			[
+				"utils",
+				"www/components/utils/utils.service.js"
+			],
+			[
+				"cards.serv",
+				"www/components/cards/cards.service.js"
+			],
+			[
+				"cards",
+				"www/components/cards/cards.service.js"
+			],
+			[
+				"app.mod",
+				"www/components/app.module.js"
+			],
+			[
+				"tils",
+				"www/components/utils/utils.filters.js"
+			],
+			[
+				"app.mdo",
+				"www/components/app.module.js"
+			],
+			[
+				"inde",
+				"www/index.html"
+			],
+			[
+				"login",
+				"www/components/auth/partials/login.modal.html"
+			],
+			[
+				"home-wrap",
+				"www/components/home/partials/home-wrap.html"
+			],
+			[
+				"help.serv",
+				"www/components/help/help.service.js"
+			],
+			[
+				"auth",
+				"www/components/auth/auth.service.js"
+			],
+			[
+				"home.",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"onboard",
+				"www/lib/onboard.js/onboard.js"
+			],
+			[
+				"menu.",
+				"www/components/navigation/menu.html"
+			],
+			[
+				"auth.ser",
+				"www/components/auth/auth.service.js"
+			],
+			[
+				"db.serv",
+				"www/components/db/db.service.js"
+			],
+			[
+				"auth.serv",
+				"www/components/auth/auth.service.js"
+			],
+			[
+				"remote.modul",
+				"www/components/remote/remote.module.js"
+			],
+			[
+				"settings",
+				"www/components/settings/settings.controller.js"
+			],
+			[
+				"app",
+				"www/components/app.module.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"remote",
+				"www/components/remote/remote.module.js"
+			],
+			[
+				"home.con",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"homemodu",
+				"www/components/home/home.module.js"
+			],
+			[
+				"general",
+				"scss/general.scss"
+			],
+			[
+				"login.modal",
+				"www/components/login/partials/login.modal.html"
+			],
+			[
+				"menu",
+				"www/components/navigation/menu.html"
+			],
+			[
+				"appmo",
+				"www/components/app.module.js"
+			],
+			[
+				"home.c",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"menu.html",
+				"www/components/navigation/menu.html"
+			],
+			[
+				"homewrap",
+				"www/components/home/partials/home-wrap.html"
+			],
+			[
+				"login.mod",
+				"www/components/login/login.module.js"
+			],
+			[
+				"login.serv",
+				"www/components/login/login.service.js"
+			],
+			[
+				"home.contro",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"login.html",
+				"www/components/login/login.html"
+			],
+			[
+				"login.modul",
+				"www/components/login/login.module.js"
+			],
+			[
+				"config",
+				"config.xml"
+			],
+			[
+				"app.modu",
+				"www/components/app.module.js"
+			],
+			[
+				"genera",
+				"scss/general.scss"
+			],
+			[
+				"app.scss",
+				"scss/ionic.app.scss"
+			],
+			[
+				"login.con",
+				"www/components/login/login.controller.js"
+			],
+			[
+				"trails",
+				"www/components/trails/trails.module.js"
+			],
+			[
+				"login.",
+				"www/components/login/login.controller.js"
+			],
+			[
+				"naviation",
+				"www/components/navigation/navigation.module.js"
+			],
+			[
+				"app.modul",
+				"www/components/app.module.js"
+			],
+			[
+				"places",
+				"www/components/places/places.service.js"
+			],
+			[
+				"camping",
+				"www/components/camping/partials/camping.html"
+			],
+			[
+				"entertainment",
+				"www/components/entertainment/partials/entertainment.html"
+			],
+			[
+				"shops",
+				"www/components/shops/partials/shops.html"
+			],
+			[
+				"food.html",
+				"www/components/food/partials/food.html"
+			],
+			[
+				"trails.html",
+				"www/components/trails/partials/trails.html"
+			],
+			[
+				"entertain",
+				"www/components/entertainment/partials/entertainment.html"
+			],
+			[
+				"homecon",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"homecontr",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"animate.css",
+				"www/lib/animate.css/animate.css"
+			],
+			[
+				"util",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"homecont",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"utils.serv",
+				"www/components/utils/utils.service.js"
+			],
+			[
+				"uitls",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"home",
+				"www/components/home/partials/home-wrap.html"
+			],
+			[
+				"trails.contr",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"trails.con",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"utilsser",
+				"www/components/utils/utils.service.js"
+			],
+			[
+				"shops.sing",
+				"www/components/shops/partials/shops.single.html"
+			],
+			[
+				"campingcontr",
+				"www/components/camping/camping.controller.js"
+			],
+			[
+				"camping.",
+				"www/components/camping/partials/camping.html"
+			],
+			[
+				"shopscons",
+				"www/components/shops/shops.controller.js"
+			],
+			[
+				"food.singl",
+				"www/components/food/partials/food.single.html"
+			],
+			[
+				"camping.singl",
+				"www/components/camping/partials/camping.single.html"
+			],
+			[
+				"shopssingle",
+				"www/components/shops/partials/shops.single.html"
+			],
+			[
+				"food.single",
+				"www/components/food/partials/food.single.html"
+			],
+			[
+				"foodsing",
+				"www/components/food/partials/food.single.html"
+			],
+			[
+				"foodsingl",
+				"www/components/food/partials/food.single.html"
+			],
+			[
+				"food.con",
+				"www/components/food/food.controller.js"
+			],
+			[
+				"trails.sing",
+				"www/components/trails/partials/trails.single.html"
+			],
+			[
+				"map.dire",
+				"www/components/trails/directives/map.directive.js"
+			],
+			[
+				"shops.",
+				"www/components/shops/partials/shops.html"
+			],
+			[
+				".html",
+				"www/components/food/partials/food.html"
+			],
+			[
+				"appmodu",
+				"www/components/app.module.js"
+			],
+			[
+				"shoips.sing",
+				"www/components/shops/partials/shops.single.html"
+			],
+			[
+				"entertai",
+				"www/components/entertainment/partials/entertainment.single.html"
+			],
+			[
+				"entertainm",
+				"www/components/entertainment/partials/entertainment.html"
+			],
+			[
+				"shopsing",
+				"www/components/shops/partials/shops.single.html"
+			],
+			[
+				"shops.html",
+				"www/components/shops/partials/shops.html"
+			],
+			[
+				"shops.cont",
+				"www/components/shops/shops.controller.js"
+			],
+			[
+				"food.sing",
+				"www/components/food/partials/food.single.html"
+			],
+			[
+				"appm",
+				"www/components/app.module.js"
+			],
+			[
+				"food.cont",
+				"www/components/food/food.controller.js"
+			],
+			[
+				"filters",
+				"www/components/utils/utils.filters.js"
+			],
+			[
+				"utils.",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"trailmodal",
+				"www/components/trails/partials/trails.single.modal.html"
+			],
+			[
+				"appmodul",
+				"www/components/app.module.js"
+			],
+			[
+				"ratio",
+				"scss/ratio.scss"
+			],
+			[
+				"utils.dir",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"gen",
+				"scss/general.scss"
+			],
+			[
+				"food",
+				"scss/food.scss"
+			],
+			[
+				"modal",
+				"www/components/trails/partials/trails.single.modal.html"
+			],
+			[
+				"trailscont",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"trail.sing",
+				"www/components/trails/partials/trails.single.html"
+			],
+			[
+				"trail",
+				"www/components/trails/partials/trails.html"
+			],
+			[
+				"food.modul",
+				"www/components/food/food.module.js"
+			],
+			[
+				"trails.cont",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"places.serv",
+				"www/components/places/places.service.js"
+			],
+			[
+				"places.modu",
+				"www/components/places/places.module.js"
+			],
+			[
+				"index.hml",
+				"www/index.html"
+			],
+			[
+				"foodcont",
+				"www/components/food/food.controller.js"
+			],
+			[
+				"trails.contro",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"maps.",
+				"scss/maps.scss"
+			],
+			[
+				"food.modu",
+				"www/components/places/food.module.js"
+			],
+			[
+				"map.",
+				"www/components/trails/directives/map.directive.js"
+			],
+			[
+				"places.html",
+				"www/components/places/partials/places.html"
+			],
+			[
+				"map",
+				"www/components/trails/directives/map.directive.js"
+			],
+			[
+				"trail.modal",
+				"www/components/trails/partials/trails.single.modal.html"
+			],
+			[
+				"utilsdir",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"remote.module",
+				"www/components/remote/remote.module.js"
+			],
+			[
+				"home.html",
+				"www/home.html"
+			],
+			[
+				"uitls.",
+				"www/components/utils/utils.directives.js"
+			],
+			[
+				"home.contr",
+				"www/components/home/home.controller.js"
+			],
+			[
+				"settings.con",
+				"www/components/settings/settings.controller.js"
+			],
+			[
+				"trails.",
+				"scss/trails.scss"
+			],
+			[
+				"trails.control",
+				"www/components/trails/trails.controller.js"
+			],
+			[
+				"generl",
+				"scss/general.scss"
+			],
+			[
+				"menu.h",
+				"www/components/navigation/menu.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
